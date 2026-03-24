@@ -8,6 +8,9 @@ This project is a real-time e-commerce data analytics dashboard built using Pyth
 - Pandas
 - SQLite
 - Streamlit
+## 📸 Dashboard Screenshots
+
+![Dashboard](## 📸 Dashboard Screenshots)
 
 ## 📊 Features
 - Real-time data processing
